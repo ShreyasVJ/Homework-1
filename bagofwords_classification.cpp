@@ -1,7 +1,6 @@
 #include "opencv2/opencv_modules.hpp"
 #include <iostream>
 //branch 2
-//this is a very complicated code,Lol
 #ifndef HAVE_OPENCV_NONFREE
 
 int main(int, char**)
